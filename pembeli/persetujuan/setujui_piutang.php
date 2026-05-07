@@ -1,0 +1,1 @@
+<!-- setujui_piutang.php -->

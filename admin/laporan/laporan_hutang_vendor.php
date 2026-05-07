@@ -1,0 +1,1 @@
+<!-- laporan_hutang_vendor.php -->
